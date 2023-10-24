@@ -7,4 +7,4 @@ Homework2
 
 https://youtu.be/fFfurJGcNlo
 
-[![Video](https://img.youtube.com/watch?v=fFfurJGcNlo/maxresdefault.jpg)](https://www.youtube.com/watch?v=fFfurJGcNlo)
+[![Video](https://img.youtube.com/vi/fFfurJGcNlo/maxresdefault.jpg)](https://www.youtube.com/watch?v=fFfurJGcNlo)
