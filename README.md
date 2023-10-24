@@ -3,7 +3,7 @@ OpenCV-Python Tutorials
 
 Homework2 
 
-<img src="HomeWork2.png" width="100%" height="100%" title="HomeWork2" alt="HomeWork2"></img>
+<img src="HomeWork2.gif" width="100%" height="100%" title="HomeWork2" alt="HomeWork2"></img>
 
 https://youtu.be/fFfurJGcNlo
 
